@@ -1,4 +1,4 @@
-# My name is Rayhan Muammar Shidqi known as Riuto Takato
+# Riuto Takato
 
 ### Game Designer | JRPG Enthusiast | Narrative Weaver
 
