@@ -26,6 +26,7 @@ I am a passionate Game Designer and Developer who lives and breathes the gaming 
 ### Gaming Identity
 - **Favorite Genres:** JRPG, Narrative-Driven, Tactical RPG, Visual Novel.
 - **Inspirations:** Persona series, Neptunia series, Dark Souls series, Metal Gear Solid and Death Stranding series.
+- **Favorite Character:** Nepgear (Hyperdimension Neptunia), Solid Snake (Metal Gear Solid 3), Firekeeper (Dark Souls 3), Reisalin Stout (Atelier Ryza), Sam Porter Bridges (Death Stranding), Kushima Kamome (Summer Pockets) , Jin Sakai (Ghost of Tsushima), Aigis (Persona 3), James Sunderland (Silent Hill 2), Henry de Skalitz (Kingdom Come: Deleverance).
 - **Philosophy:** "Games are not just play; they are experiences that blend art, logic, fun, and emotion."
 
 ---
