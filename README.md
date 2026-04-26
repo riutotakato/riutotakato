@@ -2,7 +2,7 @@
 
 ### Game Designer | JRPG Enthusiast | Narrative Weaver
 
-I am a passionate Game Designer and Developer who lives and breathes the gaming industry. My world revolves around crafting immersive stories and engaging mechanics, heavily inspired by the works of **Atlus**, **Compile Heart**, and **Kojima Productions**.
+I am a passionate Game Designer and Developer who lives and breathes the gaming industry. My world revolves around crafting immersive stories and engaging mechanics, heavily inspired by the works of **ATLUS**, **Compile Heart**, **FromSoftware**, and **KOJIMA PRODUCTIONS**.
 
 ### What I'm Working On
 - Currently developing a **Turn-Based JRPG** using **RPG Maker MV**.
