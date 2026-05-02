@@ -1,6 +1,6 @@
-# Riuto Takato
+# Rayhan Shidqi (Riuto)
 
-### Game Designer | JRPG Enthusiast | Narrative Weaver
+### Game Designer | JRPG Enthusiast | Story Writer
 
 I am a passionate Game Designer and Developer who lives and breathes the gaming industry. My world revolves around crafting immersive stories and engaging mechanics, heavily inspired by the works of **ATLUS**, **Compile Heart**, **FromSoftware**, and **KOJIMA PRODUCTIONS**.
 
