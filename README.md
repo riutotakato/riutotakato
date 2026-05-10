@@ -14,7 +14,7 @@ I am a passionate Game Designer and Developer who lives and breathes the gaming 
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Game Engines** | Unity, Godot, Unreal Engine, RPG Maker, Ren'Py, GameMaker, Sandbox Engine, TyranoBuilder VN |
-| **Languages** | C#, C++, JavaScript (for RPG Maker/Web), Python |
+| **Languages** | C#, C++, JavaScript (for RPG Maker), Python |
 | **Specialties** | Level Design, Combat and Gameplay Mechanic Design, Narrative Design, Quest Design, Game Concept |
 
 ### Gaming Identity
