@@ -25,6 +25,7 @@ I am a passionate Game Designer and Developer who lives and breathes the gaming 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rayhanmuammarshidqi/)
 - [Itch.io](https://riuto.itch.io/)
+- [Instagram](https://www.instagram.com/riutotakato?igsh=MWJ5bWsydWliZ3R3Yw==)
 - [Steam](https://steamcommunity.com/profiles/76561199376047930/)
 - [Web Portfolio](https://rayhanshidqi.netlify.app/)
   
